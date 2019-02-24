@@ -1,0 +1,1 @@
+# Example Project Python/Flask Firebase Email Only Authentication
